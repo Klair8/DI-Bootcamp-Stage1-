@@ -1,0 +1,38 @@
+html { 
+background-color:#FAC062; 
+margin-left: 200px;
+margin-right: 200px;
+}
+
+* {
+	font-family:  helvetica;
+	font-style: italic;
+	font-size: 13px;
+	text-align: center;
+	margin-top:5px
+	margin-bottom:auto;
+}
+
+#wrap{
+border:dashed;	
+background-color: #FFF3C0;
+
+}
+
+h1 {
+	margin:auto;
+	font-size: 25px;
+	font-weight: bold;
+  border-bottom: dashed;
+}
+
+
+.container {
+	list-style-type: none;
+
+}
+
+.container :first-letter {
+font-size:18px;
+font-weight: 2rem;
+}

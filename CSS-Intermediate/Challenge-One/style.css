@@ -1,0 +1,36 @@
+
+body {
+	background-color:#4455A4;
+	margin: 0px 40px;
+}
+
+#wrap {
+	display:flex;
+	justify-content:space-between;
+}
+
+
+#nav {
+    width: 18%;
+    padding:10px;
+	background-color: #B8C1EE;
+}
+
+
+#content {
+	padding:10px;
+	background-color:#6474C0;
+	text-align: center;
+	width: 100%;
+}
+
+#content ul{
+	list-style-type: none;
+}
+
+#copyright {
+    display: flex;
+	justify-content:center;
+	margin-top: 6px;
+	background-color:#4455A4;
+}

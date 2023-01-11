@@ -1,0 +1,47 @@
+body{
+    width :100%;
+    margin: 10px 20px;
+    text-align:center;
+}
+
+section {
+    border: 3px solid black;
+    display: inline-block;
+    justify-content: center;
+    width: 90%;
+    height: 100px;
+   background: rgb(178, 130, 217);    
+   margin-bottom: 5px;
+}
+
+
+.column{
+    margin: 10px 20px;
+}
+
+.col {
+    border: 3px solid black;
+    display: inline-block;
+   justify-content: center ;
+    height:600px;
+    width: 30%;
+    margin:5px;
+}
+    
+.col-red{
+    background: rgb(226, 162, 162);
+}
+
+.col-green{
+    background:rgb(181, 232, 181);
+}
+
+.col-yellow{
+    background:rgb(243, 243, 153);
+}
+
+
+
+
+
+

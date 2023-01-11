@@ -1,0 +1,24 @@
+* {
+	padding : 2px;
+	font-family:  helvetica;
+	font-size: 13px;
+}
+
+div{
+	background-color: #6AB1F5;
+}
+
+h1 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.container {
+	list-style-type: none;
+	text-align: center;
+}
+
+.container :first-letter {
+font-size:18px;
+font-weight: 2rem;
+}

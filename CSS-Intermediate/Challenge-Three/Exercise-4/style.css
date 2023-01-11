@@ -1,0 +1,50 @@
+html { 
+margin-left: 200px;
+margin-right: 200px;
+}
+
+#wrap {
+	display:flex;
+	justify-content: center;
+	flex-direction: row;
+background-color: #ad97a7;
+border: 3px solid;
+height: 50%;
+font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+	padding: 5px;
+	width:500px;
+	font-size: 30px;
+}
+
+.poeme {
+	display: inline-block;
+	justify-content: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 18px;
+	width: 100%;
+}
+
+ul.container {
+	border: 3px solid;
+	background:pink;
+	
+}
+ul.container2 {
+	border: 3px solid;
+	background:rgb(220, 166, 175);
+
+}
+ul.container3 {
+	border: 3px solid;
+	background:rgb(173, 118, 127);
+	
+}
+
+.copyright {
+	background: whitesmoke;
+	text-align: center;
+	font-size: 15px;
+}
